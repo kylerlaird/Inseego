@@ -1,0 +1,2 @@
+# inseego
+control Inseego equipment
