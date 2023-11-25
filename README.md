@@ -1,4 +1,4 @@
-# inseego
+# Inseego
 control Inseego equipment
 
 My M3000 seems to get wonky after it's been running a long time.
